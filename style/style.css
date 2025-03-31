@@ -29,9 +29,10 @@ a {
 }
 
 .heading {
-    font-weight: bold;
-    margin-top: 1em;
-    margin-bottom: 2em;
+    /* font-weight: bold; */
+    font-size: 1.5em;
+    margin-top: 2em;
+    margin-bottom: 3em;
 }
 
 @media (max-width: 430px) {
