@@ -6,7 +6,7 @@
 
 html {    
     font-family: "Times New Roman" , "游明朝" , "Yu Mincho" , "游明朝体" , "YuMincho" , "ヒラギノ明朝 Pro W3" , "Hiragino Mincho Pro" , "HiraMinProN-W3" , "HGS明朝E" , "ＭＳ Ｐ明朝" , "MS PMincho" , serif;
-    font-size: 15px;
+    font-size: 16px;
     max-width: 60em;
     height: 100%;
     margin: 0 auto;
@@ -33,6 +33,11 @@ a {
     font-size: 1.5em;
     margin-top: 2em;
     margin-bottom: 3em;
+}
+
+img {
+    width: 75%;
+    margin-bottom:100px;
 }
 
 @media (max-width: 430px) {
